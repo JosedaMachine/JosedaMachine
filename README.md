@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=VideoGame+Developer;3D+Artist&font=Fira%20Code&size=18&center=true&width=380&height=45&duration=500&pause=4000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=VideoGame+Developer;3D+Artist&font=Fira%20Code&size=18&center=true&width=380&height=45&duration=600&pause=2000">
 </p>
 
 <p align="center">
@@ -50,6 +50,18 @@
   <p align="left">
     <a href="https://github.com/JosedaMachine/LocalizationTesting-CollabProject"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SergioJAlfonso&repo=WhoTheCrap&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="WhoTheCrapIsThis??"></a>
    </p>
+</details>
+
+<details> 
+  <summary><h2>Anual Univesity Game Projects </h2></summary>
+  <p align="left">
+    <a href="https://github.com/Proyectos1-FDI-UCM/c1920-Grupo05"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Proyectos1-FDI-UCM&repo=c1920-Grupo05&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/CLAP-VideoGames/CaptainBrineTooth"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=CLAP-VideoGames&repo=CaptainBrineTooth&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/CLAP-VideoGames/K_Engine"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=CLAP-VideoGames&repo=K_Engine&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/SergioJAlfonso/TFG-Distribution-and-Generation-System-of-Custom-Props-in-Blender"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SergioJAlfonso&repo=TFG-Distribution-and-Generation-System-of-Custom-Props-in-Blender&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+   </p>
+
+  <a href="https://github.com/JosedaMachine?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <details> 
