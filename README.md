@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Joseda+Machine;Evar+3D&font=Fira%20Code&color=F7F7F7FF&size=25&center=true&width=380&height=45&duration=4000&pause=1000">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Programmer+And+Technical-Artist&font=Fira%20Code&size=15&color=F72929&center=true&width=380&height=45&duration=100&pause=60000">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=VideoGame+Developer;3D+Artist&font=Fira%20Code&size=18&center=true&width=380&height=45&duration=600&pause=2000">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Programmer+And+Technical-Artist&font=Fira%20Code&size=15&color=F72929&center=true&width=380&height=45&duration=100&pause=60000">
-</p>
 
 
 <!-- Social icons section -->
