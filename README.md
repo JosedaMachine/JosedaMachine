@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Student+at+UCM&font=Fira%20Code&size=15&color=F72929&center=true&width=380&height=45&duration=100&pause=60000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Programmer+And+Technical-Artist&font=Fira%20Code&size=15&color=F72929&center=true&width=380&height=45&duration=100&pause=60000">
 </p>
 
 
@@ -37,7 +37,9 @@
 <details open> 
   <summary><h2>📘 My Top Univesity Projects </h2></summary>
   <p align="left">
+    <a href="https://github.com/SergioJAlfonso/TFG-Distribution-and-Generation-System-of-Custom-Props-in-Blender"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SergioJAlfonso&repo=TFG-Distribution-and-Generation-System-of-Custom-Props-in-Blender&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/JosedaMachine/LocalizationTesting-CollabProject"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JosedaMachine&repo=LocalizationTesting-CollabProject&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="VideojuegosMoviles"></a>
+    <a href="https://github.com/JosedaMachine/SDL_VideoReproductor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=JosedaMachine&repo=SDL_VideoReproductor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/angelo066/SanManuelBueno"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=angelo066&repo=SanManuelBueno&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/CLAP-VideoGames/CaptainBrineTooth"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=CLAP-VideoGames&repo=CaptainBrineTooth&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
    </p>
@@ -113,6 +115,7 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
