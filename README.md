@@ -37,7 +37,7 @@
 
 
 <details open> 
-  <summary><h2>📘 My Top Univesity Projects </h2></summary>
+  <summary><h2>📘 My Top Projects </h2></summary>
   <p align="left">
     <a href="https://github.com/SergioJAlfonso/TFG-Distribution-and-Generation-System-of-Custom-Props-in-Blender"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=SergioJAlfonso&repo=TFG-Distribution-and-Generation-System-of-Custom-Props-in-Blender&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/JosedaMachine/LocalizationTesting-CollabProject"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JosedaMachine&repo=LocalizationTesting-CollabProject&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="VideojuegosMoviles"></a>
