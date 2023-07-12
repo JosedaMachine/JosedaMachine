@@ -58,7 +58,7 @@
 </details>
 
 <details> 
-  <summary><h2>Anual Univesity Game Projects </h2></summary>
+  <summary><h2>Anual University Game Projects </h2></summary>
   <p align="left">
     <a href="https://github.com/Proyectos1-FDI-UCM/c1920-Grupo05"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Proyectos1-FDI-UCM&repo=c1920-Grupo05&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/CLAP-VideoGames/CaptainBrineTooth"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=CLAP-VideoGames&repo=CaptainBrineTooth&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
