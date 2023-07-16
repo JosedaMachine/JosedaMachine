@@ -156,6 +156,11 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
+1. 🚀 Published release [Surface Spray Add-on v.1.0.0](https://github.com/SergioJAlfonso/TFG-Distribution-System-of-Custom-Props-in-Blender/releases/tag/v.1.0.0) in [SergioJAlfonso/TFG-Distribution-System-of-Custom-Props-in-Blender](https://github.com/SergioJAlfonso/TFG-Distribution-System-of-Custom-Props-in-Blender)
+2. 🚀 Published release [v.0.1.0-beta](https://github.com/SergioJAlfonso/TFG-Distribution-System-of-Custom-Props-in-Blender/releases/tag/v.0.1.0) in [SergioJAlfonso/TFG-Distribution-System-of-Custom-Props-in-Blender](https://github.com/SergioJAlfonso/TFG-Distribution-System-of-Custom-Props-in-Blender)
+3. 🚀 Published release [Release FearTracker](https://github.com/JosedaMachine/FearTracker_UAJ/releases/tag/ReleaseTracker) in [JosedaMachine/FearTracker_UAJ](https://github.com/JosedaMachine/FearTracker_UAJ)
+4. 🚀 Published release [v.0.0.0-beta](https://github.com/SergioJAlfonso/TFG-Distribution-and-Generation-System-of-Custom-Props-in-Blender/releases/tag/v.0.0.0) in [SergioJAlfonso/TFG-Distribution-and-Generation-System-of-Custom-Props-in-Blender](https://github.com/SergioJAlfonso/TFG-Distribution-and-Generation-System-of-Custom-Props-in-Blender)
+<!--END_SECTION:activity-->
 
 </details>
 
